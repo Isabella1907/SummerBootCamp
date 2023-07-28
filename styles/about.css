@@ -1,6 +1,9 @@
 main {
   background-color: whitesmoke;
 }
+.card{
+   font-family: 'Lugrasimo', cursive;
+}
 .fullWidth {
   width: 100%;
 }
